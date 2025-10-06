@@ -1,0 +1,8 @@
+#订单内容
+string[] order_items
+---
+#订单结果
+string order_result
+---
+#状态反馈
+string feedback

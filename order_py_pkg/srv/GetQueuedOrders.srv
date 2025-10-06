@@ -1,0 +1,3 @@
+---
+int32[] order_ids
+string[] items_list

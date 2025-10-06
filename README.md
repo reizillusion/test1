@@ -22,6 +22,7 @@ ros2 action send_goal/submit_order order_py_pkg/Order"{order_items:['latte','cap
 或者也可以：
 
 新建第三个终端，并启动顾客节点Customer_node
+（尽量还是第一种吧）
 
 ![97ba6517c3bb01ab119b97d38aad8c48](https://github.com/user-attachments/assets/9185fa43-20de-43fd-9e55-144d39e391c7)
 
